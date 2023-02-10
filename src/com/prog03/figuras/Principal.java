@@ -10,7 +10,7 @@ public class Principal {
 	        
 	        System.out.println("Rectangulo 1 es "+rectang1);
 	        System.out.println("El área es: " +area1);
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stub uuuu
 
 	}
 
